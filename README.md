@@ -13,3 +13,6 @@ O interpretador de arquivo MD, que converteu arquivos MD em documentos HTML , fo
 * Bloco de Notas da Microsoft
 * Microsoft WordPad
 * Apple TextEdit
+* gVim
+* textMate
+
