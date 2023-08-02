@@ -1,9 +1,17 @@
 Exercício sobre Algoritimos!
 
-Calcular uma soma de 2 números inteiros!
+** Calcular uma soma de 2 números inteiros: **
 
 1 - Definir o primeiro valor.
 2 - Definir o segundo valor.
 3 - realizar a soma dos valores definidos.
 4 - exibir o resultado
 5 - fim!
+
+** Chupar uma bala: **
+1 - ir a venda.
+2 - comprar o bala.
+3 - abrir a embalagem do bala.
+4 - chupar o bala.
+5 - descartar o palito na lixeira
+6 - fim!
