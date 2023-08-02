@@ -18,5 +18,7 @@ O interpretador de arquivo MD, que converteu arquivos MD em documentos HTML , fo
 
 #### Sites utilizados nessa pequena pesquisa <h4>
 [https://www.collectiveray.com/pt/extens%C3%A3o-de-arquivo-markdown-md?expand_article=1]
+
 [https://www.file-extension.info/pt/format/md]
+
 [https://docs.pipz.com/central-de-ajuda/learning-center/guia-basico-de-markdown#open]
