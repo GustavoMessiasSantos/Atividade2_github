@@ -1,0 +1,9 @@
+Exercício sobre Algoritimos!
+
+Calcular uma soma de 2 números inteiros!
+
+1 - Definir o primeiro valor.
+2 - Definir o segundo valor.
+3 - realizar a soma dos valores definidos.
+4 - exibir o resultado
+5 - fim!
